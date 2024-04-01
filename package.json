@@ -2,6 +2,7 @@
   "name": "newsroom-score-calculator",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://redtribe-org.github.io/newsroom-calculator/",
   "type": "module",
   "scripts": {
     "dev": "vite",
